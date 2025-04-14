@@ -1,0 +1,8 @@
+pyttsx3
+datetime
+speechRecognition
+pywhatkit
+wikipedia
+bs4
+beautifulsoup4
+requirements
